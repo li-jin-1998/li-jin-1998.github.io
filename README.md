@@ -1,5 +1,4 @@
-# [Website](https://li-jin-1998.github.io/photography)
-<img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
+# [Website](https://li-jin-1998.github.io)
 
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
 A jekyll website for photographers
